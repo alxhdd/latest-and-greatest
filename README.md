@@ -1,7 +1,7 @@
 ## Currently Working On
 
-**Project:** [Macrocraft](https://macrocraft.io)
+**Project:** [Hello Aleksa](https://github.com/alxhdd/hello-aleksa)
 
-World of warcraft macro generator built with pure JS
+Portfolio automated to the brim
 
 _Last updated: 2025-10-01_
