@@ -1,7 +1,7 @@
 ## Currently Working On
 
-**Project:** [Hello Aleksa](https://github.com/alxhdd/hello-aleksa)
+**Project:** [Michi Method Binder Creator](soon)
 
-Portfolio automated to the brim
+A cool and handy tool for nerds and collectors alike. V1 coming v soon 
 
-_Last updated: 2025-11-27_
+_Last updated: 2025-11-28_
