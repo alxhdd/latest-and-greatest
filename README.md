@@ -4,4 +4,4 @@
 
 A cool and handy tool for nerds and collectors alike. V1 coming v soon 
 
-_Last updated: 2025-12-07_
+_Last updated: 2025-12-08_
