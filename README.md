@@ -1,7 +1,7 @@
 ## Currently Working On
 
-**Project:** [Michi Method Binder Creator](soon)
+**Project:** [Hello Aleksa](https://github.com/alxhdd/hello-aleksa)
 
-A cool and handy tool for nerds and collectors alike. V1 coming v soon 
+Portfolio automated to the brim, built with Next.js, Tailwind and Framer Motion.
 
-_Last updated: 2026-01-04_
+_Last updated: 2026-01-05_
