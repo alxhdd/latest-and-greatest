@@ -1,7 +1,7 @@
 ## Currently Working On
 
-**Project:** [Carbon OPS](https://github.com/alxhdd/)
+**Project:** [Hello Aleksa](https://github.com/alxhdd/hello-aleksa)
 
-FUllstack app using React Carbon UI for incident management
+Portfolio automated to the brim, built with Next.js, Tailwind and Framer Motion.
 
-_Last updated: 2026-02-03_
+_Last updated: 2026-02-04_
