@@ -4,4 +4,4 @@
 
 Portfolio automated to the brim, built with Next.js, Tailwind and Framer Motion.
 
-_Last updated: 2026-02-05_
+_Last updated: 2026-02-06_
