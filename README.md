@@ -1,7 +1,7 @@
 ## Currently Working On
 
-**Project:** [Hello Aleksa](https://github.com/alxhdd/hello-aleksa)
+**Project:** [AI personal wakeup](https://github.com/alxhdd/hello-aleksa)
 
-Portfolio automated to the brim, built with Next.js, Tailwind and Framer Motion.
+my biggest pain is waking up in the morning so this tool is my personal pain in the ass assistant that wakes me up everyday by calling me and yapping to me about the stuff I deemed important. or sth
 
-_Last updated: 2026-02-20_
+_Last updated: 2026-02-21_
