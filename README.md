@@ -19,4 +19,4 @@ Instead of static updates, this repo is driven by a custom GitHub Action workflo
 
 Portfolio automated to the brim, built with Next.js, Tailwind and Framer Motion.
 
-_Last updated: 2026-04-16_
+_Last updated: 2026-04-17_
