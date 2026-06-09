@@ -15,8 +15,8 @@ Instead of static updates, this repo is driven by a custom GitHub Action workflo
 
 ### 🚀 Live Project Feed
 
-**Project:** [Hello Aleksa](https://github.com/alxhdd/hello-aleksa)
+**Project:** [The Portfolio That Maintains Itself](https://alxhdd.com)
 
-Portfolio automated to the brim, built with Next.js, Tailwind and Framer Motion.
+Static site. Zero manual updates. Fully automated from repo to deployment.
 
-_Last updated: 2026-06-08_
+_Last updated: 2026-06-09_
