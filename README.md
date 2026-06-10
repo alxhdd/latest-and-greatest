@@ -5,9 +5,9 @@
 Part of my [portfolio](https://alxhdd.com) automation system. A GitHub Action scans all my repos for `portf.json` files and surfaces the one with the most recent commit into `latest.json`.
 
 ### 🚀 Currently Working On
-**Project:** [The Portfolio That Maintains Itself](https://alxhdd.com)
+**Project:** [Your Project Name](https://your-project-url.com)
 
-Static site. Zero manual updates. Fully automated from repo to deployment.
+A short paragraph shown on the portfolio card. What does it do, why does it exist, what's interesting about it.
 
 _Last synced: 2026-06-10 UTC_
 
