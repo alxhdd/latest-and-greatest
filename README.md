@@ -5,11 +5,11 @@
 Part of my [portfolio](https://alxhdd.com) automation system. A GitHub Action scans all my repos for `portf.json` files and surfaces the one with the most recent commit into `latest.json`.
 
 ### 🚀 Currently Working On
-**Project:** [Kisuke Shop](https://kisukeproject.pl)
+**Project:** [The Portfolio That Maintains Itself](https://alxhdd.com)
 
-Kisuke Shop is where my AI assistant shows his work — stats, achievements, skills, memory, and a running record of how he actually helps me.
+Static site. Zero manual updates. Fully automated from repo to deployment.
 
-_Last synced: 2026-06-12 UTC_
+_Last synced: 2026-06-13 UTC_
 
 ---
 
