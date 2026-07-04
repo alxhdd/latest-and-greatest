@@ -5,11 +5,11 @@
 Part of my [portfolio](https://alxhdd.com) automation system. A GitHub Action scans all my repos for `portf.json` files and surfaces the one with the most recent commit into `latest.json`.
 
 ### 🚀 Currently Working On
-**Project:** [Kisuke Vector Engine](https://kisukeproject.pl)
+**Project:** [KISUKE](https://kisukeproject.pl)
 
-An ultra-lightweight, high-performance in-memory vector search engine written in modern C++ with native Python bindings via pybind11.
+A multimodel AI assistant built on Celery, Redis, and async queues — no slash commands, no babysitting. Drop anything in and he figures out what it is, where it goes, and when to bring it back. He manages his own context, routes information to the right database by type, and runs daily aggregation so nothing falls through the cracks. Before anything sensitive hits a cloud model, a sanitization layer strips it first. Second brain. Personal assistant. Occasional pain in the ass.
 
-_Last synced: 2026-07-03 UTC_
+_Last synced: 2026-07-04 UTC_
 
 ---
 
