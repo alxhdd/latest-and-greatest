@@ -5,9 +5,9 @@
 Part of my [portfolio](https://alxhdd.com) automation system. A GitHub Action scans all my repos for `portf.json` files and surfaces the one with the most recent commit into `latest.json`.
 
 ### 🚀 Currently Working On
-**Project:** [KISUKE](https://kisukeproject.pl)
+**Project:** [FIP Tracker — a free tool for tracking a cat through FIP](https://fiptracker.com)
 
-A multimodel AI assistant built on Celery, Redis, and async queues — no slash commands, no babysitting. Drop anything in and he figures out what it is, where it goes, and when to bring it back. He manages his own context, routes information to the right database by type, and runs daily aggregation so nothing falls through the cracks. Before anything sensitive hits a cloud model, a sanitization layer strips it first. Second brain. Personal assistant. Occasional pain in the ass.
+A free, self-hostable web app that helps caregivers track a cat through feline infectious peritonitis — weight, temperature, appetite, symptoms and bloodwork turned into trend charts, shareable with a vet or a partner. Built during my own cat's FIP scare.
 
 _Last synced: 2026-07-23 UTC_
 
