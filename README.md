@@ -5,9 +5,9 @@
 Part of my [portfolio](https://alxhdd.com) automation system. A GitHub Action scans all my repos for `portf.json` files and surfaces the one with the most recent commit into `latest.json`.
 
 ### 🚀 Currently Working On
-**Project:** [FIP Tracker — a free tool for tracking a cat through FIP](https://fiptracker.com)
+**Project:** [The Wakeup Caller](https://kisukeproject.pl)
 
-A free, self-hostable web app that helps caregivers track a cat through feline infectious peritonitis — weight, temperature, appetite, symptoms and bloodwork turned into trend charts, shareable with a vet or a partner. Built during my own cat's FIP scare.
+It calls. It briefs. It will bother me until I prove I'm awake. It's integrated into Kisuke.
 
 _Last synced: 2026-07-23 UTC_
 
