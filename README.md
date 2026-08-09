@@ -9,7 +9,7 @@ Part of my [portfolio](https://alxhdd.com) automation system. A GitHub Action sc
 
 A free, self-hostable web app that helps caregivers track a cat through feline infectious peritonitis — weight, temperature, appetite, symptoms and bloodwork turned into trend charts, shareable with a vet or a partner. Built during my own cat's FIP scare.
 
-_Last synced: 2026-08-08 UTC_
+_Last synced: 2026-08-09 UTC_
 
 ---
 
