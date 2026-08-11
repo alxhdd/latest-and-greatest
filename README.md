@@ -7,9 +7,9 @@ Part of my [portfolio](https://alxhdd.com) automation system. A GitHub Action sc
 ### 🚀 Currently Working On
 **Project:** [Kisuke JobBoards]()
 
-A standalone job-application tracker built as a proper backend service — append-only event log, stage state machine, delayed follow-up reminders, and funnel stats computed from events instead of snapshots. Kisuke consumes it over HTTP and answers "what's pending this week?" Built ticket-by-ticket through PR review, one issue at a time.
+A job-discovery service that pulls listings overnight from ATS boards, Polish job sites, and HN Who's Hiring, normalizes wildly different payloads into one schema (raw kept verbatim, normalized rebuilt on demand), scores them with explainable config-driven rules, and hands the shortlist to Kisuke's morning brief through a shared Postgres. Feedback loops back — dismissed jobs stay gone. After the job hunt: same pipeline, pointed at GitHub, surfacing OSS issues worth contributing to via polling and signed webhooks.
 
-_Last synced: 2026-08-10 UTC_
+_Last synced: 2026-08-11 UTC_
 
 ---
 
