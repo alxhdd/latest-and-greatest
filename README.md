@@ -5,11 +5,11 @@
 Part of my [portfolio](https://alxhdd.com) automation system. A GitHub Action scans all my repos for `portf.json` files and surfaces the one with the most recent commit into `latest.json`.
 
 ### 🚀 Currently Working On
-**Project:** [Kisuke JobBoards]()
+**Project:** [KISUKE](https://kisukeproject.pl)
 
-A job-discovery service that pulls listings overnight from ATS boards, Polish job sites, and HN Who's Hiring, normalizes wildly different payloads into one schema (raw kept verbatim, normalized rebuilt on demand), scores them with explainable config-driven rules, and hands the shortlist to Kisuke's morning brief through a shared Postgres. Feedback loops back — dismissed jobs stay gone. After the job hunt: same pipeline, pointed at GitHub, surfacing OSS issues worth contributing to via polling and signed webhooks.
+A multimodel AI assistant built on Celery, Redis, and async queues — no slash commands, no babysitting. Drop anything in and he figures out what it is, where it goes, and when to bring it back. He manages his own context, routes information to the right database by type, and runs daily aggregation so nothing falls through the cracks. Before anything sensitive hits a cloud model, a sanitization layer strips it first. Second brain. Personal assistant. Occasional pain in the ass.
 
-_Last synced: 2026-08-25 UTC_
+_Last synced: 2026-08-26 UTC_
 
 ---
 
